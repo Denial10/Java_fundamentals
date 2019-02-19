@@ -8,4 +8,16 @@ package conditions_loops.labs;
  */
 
 public class Exercise_10 {
+    public static void main(String[] args) {
+        int i = 0;
+        for(int x = 0; x <= 80; x++){
+            if((i % 3) != 0) {
+                continue;
+            }
+            System.out.println(x);
+
+        }
+
+    }
 }
+

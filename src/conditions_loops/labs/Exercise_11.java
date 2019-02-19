@@ -20,4 +20,38 @@ package conditions_loops.labs;
  */
 
 public class Exercise_11 {
+    public static void main(String[] args) {
+                  for(int x = 1; x <= 10; x++) {
+                      System.out.println("x | " + x);
+                  for(int a = 2; a <= 20; a++) {
+                      System.out.println("a | "  + a);
+                  for(int b = 3; b <= 30; b++){
+                      System.out.println("b | " + b);
+                  for (int c = 4; c <= 40; c++){
+                      System.out.println("c | " + c);
+                   for (int d = 5; d <= 50; d++){
+                      System.out.println("d | " + d);
+                   for (int e = 6; e <= 60; e++){
+                       System.out.println("e | " + e);
+                   for (int g = 7; g <= 70; g++) {
+                       System.out.println("g | " + g);
+                   for (int h = 8; h <= 80; h++){
+                       System.out.println("h | " +h);
+                    for (int i = 9; i <= 90; i++){
+                        System.out.println("i | " + i);
+                     for (int j = 10; j <= 100; j++){
+                         System.out.println("j | " + j);
+                     }
+                    }
+               }
+               }
+               }
+              }
+             }
+
+          }
+
+         }
+        }
+    }
 }

@@ -8,5 +8,9 @@ package conditions_loops.labs;
  */
 
 public class Exercise_04 {
-
+     public static void main(String[] args) {
+         for (int x = 0; x <= 100; x += 2) {
+             System.out.println("x = " + x);
+         }
+     }
 }

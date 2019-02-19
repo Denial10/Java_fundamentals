@@ -11,8 +11,19 @@ package fundamentals.labs;
 public class Exercise_04 {
 
     public static void main(String[] args) {
+        double radius;
+        double height;
+        double volume;
+        double surface;
 
-        // write code here
+        radius = 3.14;
+        height = 5;
+
+        volume = 3.14 * radius * radius * height;
+        surface = (2 * 3.142 * radius * radius) + (2 *3.142 * radius *height);
+
+        System.out.println("volume is " + volume);
+        System.out.println("the surface of the cylinder is " + surface);
 
     }
 }
