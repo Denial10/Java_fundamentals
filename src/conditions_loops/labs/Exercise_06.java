@@ -15,7 +15,7 @@ public class Exercise_06 {
             sum += x;
             x++;
         }
-        
+
         System.out.println(sum);
     }
 }
